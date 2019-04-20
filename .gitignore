@@ -36,3 +36,5 @@ sysinfo.txt
 test.exe
 test.exe
 *.zip
+*.info
+*.aar

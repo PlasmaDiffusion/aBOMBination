@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 9500188b2476ebb40a020f6db2c6271b
+timeCreated: 1511753555
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: arm_L
+    100006: arm_R
+    100008: back
+    100010: CRTL_chest
+    100012: CTRL_back
+    100014: CTRL_global
+    100016: CTRL_head_ik
+    100018: CTRL_leg_L
+    100020: CTRL_leg_R
+    100022: CTRL_root
+    100024: CTRL_wire_ik
+    100026: CTRL_wrist_L
+    100028: CTRL_wrist_R
+    100030: finger1_L
+    100032: finger1_R
+    100034: hand_L
+    100036: hand_R
+    100038: head
+    100040: hip_L
+    100042: hip_R
+    100044: ik_arm_L
+    100046: ik_arm_R
+    100048: ik_head
+    100050: ik_leg_L
+    100052: ik_leg_R
+    100054: ik_wire
+    100056: IKs
+    100058: joint2
+    100060: joint2 1
+    100062: joint3
+    100064: joint3 1
+    100066: joint4
+    100068: joint4 1
+    100070: joint5
+    100072: joint5 1
+    100074: knee_L
+    100076: knee_R
+    100078: left
+    100080: locator1
+    100082: locator2
+    100084: locator3
+    100086: locator4
+    100088: neck
+    100090: RetopoGroup1
+    100092: root
+    100094: shoulder_L
+    100096: shoulder_R
+    100098: spine1
+    100100: spine2
+    100102: spine3
+    100104: //RootNode
+    100106: toe_ball_L
+    100108: toe_ball_R
+    100110: toe_L
+    100112: toe_R
+    100114: wire1
+    100116: wire2
+    100118: wire3
+    100120: wrist_L
+    100122: wrist_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: arm_L
+    400006: arm_R
+    400008: back
+    400010: CRTL_chest
+    400012: CTRL_back
+    400014: CTRL_global
+    400016: CTRL_head_ik
+    400018: CTRL_leg_L
+    400020: CTRL_leg_R
+    400022: CTRL_root
+    400024: CTRL_wire_ik
+    400026: CTRL_wrist_L
+    400028: CTRL_wrist_R
+    400030: finger1_L
+    400032: finger1_R
+    400034: hand_L
+    400036: hand_R
+    400038: head
+    400040: hip_L
+    400042: hip_R
+    400044: ik_arm_L
+    400046: ik_arm_R
+    400048: ik_head
+    400050: ik_leg_L
+    400052: ik_leg_R
+    400054: ik_wire
+    400056: IKs
+    400058: joint2
+    400060: joint2 1
+    400062: joint3
+    400064: joint3 1
+    400066: joint4
+    400068: joint4 1
+    400070: joint5
+    400072: joint5 1
+    400074: knee_L
+    400076: knee_R
+    400078: left
+    400080: locator1
+    400082: locator2
+    400084: locator3
+    400086: locator4
+    400088: neck
+    400090: RetopoGroup1
+    400092: root
+    400094: shoulder_L
+    400096: shoulder_R
+    400098: spine1
+    400100: spine2
+    400102: spine3
+    400104: //RootNode
+    400106: toe_ball_L
+    400108: toe_ball_R
+    400110: toe_L
+    400112: toe_R
+    400114: wire1
+    400116: wire2
+    400118: wire3
+    400120: wrist_L
+    400122: wrist_R
+    2000000: back
+    2000002: left
+    4300000: RetopoGroup1
+    7400000: CrazyThrow
+    9500000: //RootNode
+    13700000: RetopoGroup1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: cf6ddd6d44df2b943a7f18313798f2a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CrazyThrow
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
